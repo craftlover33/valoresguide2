@@ -23,7 +23,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "fan",
       "backup_ad": "none",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
@@ -69,7 +69,7 @@
     {
       "id": 1,
       "name": "Guia",
-      "image": ""
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/valoresguide2%2Ficon.png?alt=media&token=cf8174e6-22ec-4a85-8ac4-459801e4f92b"
     }
   ],
   "posts": [
